@@ -492,6 +492,7 @@ header {
     overflow: hidden;
     margin: 10px;
     justify-content: space-between;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 30%);
 }
 
 .card .header {
@@ -613,38 +614,5 @@ footer .footer-right a:hover {
     font-weight: bold;
 }
 
-/* footer {
-    height: 65px;
-    width: 100%;
-    background-color: #2746a0;
-    color: #fff;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    text-align: center;
-}
-
-.footer-left {
-    float: left;
-}
-
-footer .footer-left img {
-    width: 125px;
-}
-
-.footer-right {
-    float: right;
-
-}
-
-footer .footer-right a {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
-    padding: 0 25px;
-}
-
-footer .footer-right a:hover {
-    font-weight: bold;
-} */
 
 /* Akhir CSS Footer */
